@@ -17,9 +17,4 @@ public class SeleniumHQ {
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         driver.get(url + "/");
     }
-
-//    public Documentation clickDocumentation(){
-//        driver.findElement(By.linkText("Documentation")).click();
-//        return new Documentation(driver);
-//    }
 }

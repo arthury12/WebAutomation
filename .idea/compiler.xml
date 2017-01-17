@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="chapter3_2" />
+        <module name="SeleniumTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chapter3_2" target="1.5" />
+      <module name="SeleniumTest" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
