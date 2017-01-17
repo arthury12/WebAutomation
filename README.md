@@ -9,6 +9,8 @@ Target: www.seleniumhq.org
 
 Language: Java
 
+Web Driver: Selenium Chrome Driver
+
 Dependency Injection: Autowire/bean
 
 Pattern: Page Factory pattern
