@@ -14,3 +14,5 @@ Web Driver: Selenium Chrome Driver
 Dependency Injection: Autowire/bean
 
 Pattern: Page Factory pattern
+
+Author: Arthur Yu
