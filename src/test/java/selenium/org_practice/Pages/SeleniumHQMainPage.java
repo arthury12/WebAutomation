@@ -15,7 +15,7 @@ public class SeleniumHQMainPage {
     WebDriver driver;
 
     @FindBy(xpath = "//*[@id=\"mainContent\"]/h2[1]")
-           public WebElement pageTitle;
+    public WebElement pageTitle;
 
     @FindBy(xpath = "//*[@id=\"menu_projects\"]/a")
     public WebElement projectsTab;
